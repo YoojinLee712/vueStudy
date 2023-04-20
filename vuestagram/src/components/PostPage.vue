@@ -1,4 +1,6 @@
 <template>
+  git vuestagram 수정 테스트
+
   <div class="post">
     <div class="post-header">
         <!--프로필사진-->
