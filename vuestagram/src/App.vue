@@ -9,7 +9,7 @@
     </ul>
     <img src="./assets/logo.png" class="logo" />
   </div>
-
+    vuestagram 수정 후 Blog 브랜치 업로드 할 때 vuestagram은 커밋 안할 수 있는지 확인
   <p>{{ name }}</p>
 <!--mutation 부탁은 commit 
      actions 부탁은 dispatch-->

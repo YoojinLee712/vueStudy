@@ -1,4 +1,5 @@
 <template>
+  git vuestagram 수정테스트
     <div @click="fire" :class="filter + ' filter-item'" :style="`background-image:url(${imageURL})`">
        <slot></slot> 
     </div> 

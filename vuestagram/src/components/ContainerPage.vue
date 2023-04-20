@@ -1,4 +1,5 @@
 <template>
+  git vuestagram 수정 테스트
   <div>
     <div v-if= " step == 0 ">
         <PostPage :posting="posting[i]" v-for="(a,i) in posting" :key="i"/>
