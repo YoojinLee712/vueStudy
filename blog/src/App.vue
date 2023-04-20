@@ -3,6 +3,8 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Vuelog</a>
+      blog파일 수정 후 브랜치에 블로그 수정본만 반영할 수 있는지 테스트
+      blog 디렉토리 수정
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

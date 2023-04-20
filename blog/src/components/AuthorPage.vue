@@ -1,5 +1,6 @@
 <template>
   <div>
+    git blog 수정
     작가소개 입니다.
   </div>
 </template>
