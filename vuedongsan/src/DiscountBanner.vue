@@ -1,6 +1,7 @@
 <template>
   <div class="discount">
     <h4>지금 결제하면 {{ percent }} 할인</h4>
+    git vuedongsan 수정
   </div>
 </template>
 

@@ -5,6 +5,7 @@
   <div class="menu">
     <a v-for="a in menu" :key = "a">{{ a }}</a>
   </div>
+  vuedongsan도 수정한 다음 blog 브랜치에 업데이트 할 때 vuedongsan 빼놓고 업데이트 할 수 있는지 테스트
   
   <DiscountBanner v-if="showDiscount == true"/>
   <button @click="priceSort">가격낮은순</button>

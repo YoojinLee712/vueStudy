@@ -1,4 +1,5 @@
 <template>
+  git vuedongsan 수정테스트
   <div class="black-bg" v-if="modalox == true">
     <div class="white-bg">
       <h4>{{원룸들[pushnum].title }}</h4>
